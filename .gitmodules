@@ -1,0 +1,3 @@
+[submodule "learngitsubmodules"]
+	path = learngitsubmodules
+	url = git@github.com:halvards/learngitsubmodules.git
